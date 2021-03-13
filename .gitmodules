@@ -1,0 +1,3 @@
+[submodule "ignite-template-conceitos-do-nodejs"]
+	path = ignite-template-conceitos-do-nodejs
+	url = https://github.com/rocketseat-education/ignite-template-conceitos-do-nodejs.git
